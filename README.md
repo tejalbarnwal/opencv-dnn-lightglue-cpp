@@ -69,7 +69,7 @@ While working with various ONNX models, the following roadblocks were encountere
         - `Or`: Logical OR, used in conditional logic.
         - `And`: Logical AND, used for combining boolean conditions.
 
-        These unsupported layers lead to runtime errors. 
+        These unsupported layers lead to errors. 
 
 
 3. 🔍 Identifying the operations required to run ALIKED and standalone LightGlue and if they are supported by OpenCV
