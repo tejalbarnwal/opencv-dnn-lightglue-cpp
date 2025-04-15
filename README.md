@@ -1,6 +1,6 @@
 # opencv-dnn-lightglue-cpp
 
-This repository explores integrating keypoint detection and matching models—specifically [ALIKED](https://github.com/wvangansbeke/ALIKED) and [LightGlue](https://github.com/cvg/LightGlue)—with OpenCV's DNN module using C++.
+This repository explores integrating keypoint detection and matching models—specifically [ALIKED](https://github.com/Shiaoming/ALIKED) and [LightGlue](https://github.com/cvg/LightGlue)—with OpenCV's DNN module using C++.
 
 The goal is to support real-time feature extraction and matching with ONNX models entirely within OpenCV DNN.
 
