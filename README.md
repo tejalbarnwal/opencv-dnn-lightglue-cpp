@@ -80,7 +80,7 @@ While working with various ONNX models, the following roadblocks were encountere
 
 - [OpenCV DNN Docs](https://docs.opencv.org/master/d6/d0f/group__dnn.html)
 - [LightGlue GitHub](https://github.com/cvg/LightGlue)
-- [ALIKE GitHub](https://github.com/wvangansbeke/ALIKED)
+- [ALIKED TRT GitHub](https://github.com/ajuric/aliked-tensorrt/tree/main)
 - [SuperPoint GitHub](https://github.com/magicleap/SuperPointPretrainedNetwork)
 - [LightGlue ONNX models](https://github.com/fabio-sim/LightGlue-ONNX)
 
